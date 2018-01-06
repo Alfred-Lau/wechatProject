@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/welcome/welcome"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "I am L J",
+    "navigationBarTextStyle": "black"
+  }
+}

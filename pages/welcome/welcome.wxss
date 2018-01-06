@@ -1,0 +1,22 @@
+.wrapper {
+  margin-top: 130rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.avatar {
+  border-radius: 100rpx;
+  width: 200rpx;
+  height: 200rpx;
+}
+
+.uname {
+  font-size: 32rpx;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+
+.notice{
+  margin-top: 140rpx;
+}

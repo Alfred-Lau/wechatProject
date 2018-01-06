@@ -1,0 +1,11 @@
+<!--编写小程序骨架文件  -->
+<!--view组件等同于div  -->
+<view class='wrapper'>
+  <image src='/images/logo.jpg' class='avatar'></image>
+  <text class='uname'>
+    hello, lj.
+  </text>
+  <view class='notice'>
+    <text>开启小程序之旅</text>
+  </view>
+</view>
