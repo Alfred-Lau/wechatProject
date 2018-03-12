@@ -6,6 +6,6 @@
     hello, lj.
   </text>
   <view class='notice'>
-    <text>开启小程序之旅</text>
+    <text class='start'>开启小程序之旅</text>
   </view>
 </view>
