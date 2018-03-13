@@ -11,8 +11,9 @@
     </swiper-item>
   </swiper>
 
-  lala
+  <view class='text-demo'>
+    <text>这是一个测试文件</text>
+  </view>
 
-  <view></view>
-
+  <view>again</view>
 </view>
