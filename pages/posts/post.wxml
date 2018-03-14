@@ -12,7 +12,7 @@
   </swiper>
 
   <view class='text-demo'>
-    <text>这是一个测试文件</text>
+    <text>这是master上面的修改</text>
   </view>
 
   <view>again</view>
