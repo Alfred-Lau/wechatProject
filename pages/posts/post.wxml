@@ -15,5 +15,5 @@
     <text>这是master上面的修改</text>
   </view>
 
-  <view>again</view>
+  <view>用来测试git rebase master</view>
 </view>
