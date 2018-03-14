@@ -11,9 +11,26 @@
     </swiper-item>
   </swiper>
 
-  <view class='text-demo'>
-    <text>这是一个测试文件</text>
+  <view>
+
+  <view class='post-container'>
+    <view class='post-author-date'>
+      <image src='/images/avatar/2.png' class='post-author'></image>
+      <text class='post-date'>{{data.date}}</text>
+    </view>
+
+    <text class='post-title'>正是虾肥蟹壮时</text>
+    <image class='post-image' src='/images/post/crab.png'></image>
+    <text class='post-content'>正是虾肥蟹壮时正是虾肥蟹壮时正是虾肥蟹壮时正是虾肥蟹壮时正是虾肥蟹壮时正是虾肥蟹壮时</text>
+    <view class='post-like-container'>
+      <image class='post-like' src='/images/icon/chat.png'></image>
+      <text class='post-like-text'>96</text>
+      <image class='post-view' src='/images/icon/view.png'></image>
+      <text class='post-view-text'>112</text>
+    </view>
+  
+  </view>
+  
   </view>
 
-  <view>again</view>
 </view>

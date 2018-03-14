@@ -8,9 +8,75 @@
   height: 600rpx;
 }
 
-.text-demo{
-  text-align: center;
-  font-size: 40rpx;
-  background: #e3e3e3;
-  color: #222222;
+.post-container{
+  margin-top: 30rpx;
+  margin-bottom: 20rpx;
+  display: flex;
+  flex-direction: column;
+  border-bottom: 1rpx sold #e3e3e3;
+
+}
+
+.post-author-date{
+
+}
+
+.post-author{
+  width: 60rpx;
+  height: 60rpx;
+  vertical-align: middle;
+}
+
+.post-date{
+  vertical-align: middle;
+
+}
+
+.post-title{
+
+}
+
+.post-image{
+  width: 100%;
+
+}
+
+.post-content{
+
+}
+
+.post-like-container{
+  flex-direction: row;
+
+}
+
+.post-like{
+width: 40rpx;
+height: 40rpx;
+  vertical-align: middle;
+  margin-left: 20rpx;
+
+}
+
+.post-like-text{
+  margin-left: 20rpx;
+  
+  vertical-align: middle;
+
+}
+
+.post-view{
+width: 40rpx;
+height: 40rpx;
+  vertical-align: middle;
+  margin-left: 20rpx;
+  
+
+}
+
+.post-view-text{
+  vertical-align: middle;
+  margin-left: 20rpx;
+  
+
 }
