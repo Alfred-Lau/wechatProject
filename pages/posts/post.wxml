@@ -11,8 +11,6 @@
     </swiper-item>
   </swiper>
 
-  <view>
-
   <view class='post-container'>
     <view class='post-author-date'>
       <image src='/images/avatar/2.png' class='post-author'></image>
@@ -31,6 +29,6 @@
   
   </view>
   
-  </view>
+
 
 </view>
